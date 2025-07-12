@@ -18,8 +18,13 @@ Predict the class (Blueberry or Orange)
 Display the prediction and confidence score
 
 The script is designed to run in Google Colab or locally using Python.
+
+Blueberry
 <img width="1878" height="787" alt="Blueb" src="https://github.com/user-attachments/assets/8a597c51-b2cc-4d62-b7af-574467f95558" />
-<img width="1048" height="506" alt="Orange" src="https://github.com/user-attachments/assets/71df66d3-2443-4a4c-a720-791795b3d54c" />
+
+Orange
+<img width="1819" height="767" alt="Orange" src="https://github.com/user-attachments/assets/0e4f392d-204a-4598-92f6-b1273a7f86e3" />
+
 
 
 
